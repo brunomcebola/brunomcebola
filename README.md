@@ -12,9 +12,9 @@
 </div>
 
 
-### Hey there 👋
+<h3>Hey there 👋</h3>
 
-I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.
+<h2>I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</h2>
 
 ### 🚀💻 Skills:
 
