@@ -12,9 +12,9 @@
 </div>
 
 
-<h3 style="color:red">Hey there 👋</h3>
+<p style="color:red">Hey there 👋</p>
 
-<h2>I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</h2>
+<p>I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</p>
 
 ### 🚀💻 Skills:
 
