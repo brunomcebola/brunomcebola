@@ -12,7 +12,7 @@
 </div>
 
 
-<h3>Hey there 👋</h3>
+<h3 style="color:red">Hey there 👋</h3>
 
 <h2>I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</h2>
 
