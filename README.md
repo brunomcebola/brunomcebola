@@ -11,18 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=brunomcebola&style=flat&color=blue" alt="Profile Views"/>
 </div>
 
-<h1>
-  Hey there 👋
-</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+### Hey there 👋
 
+I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.
 
-<h3 color="#fff">I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</h3>
-
-## 🚀💻 Technologies & Tools
+### 🚀💻 Skills:
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
