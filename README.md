@@ -11,10 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=brunomcebola&style=flat&color=blue" alt="Profile Views"/>
 </div>
 
-
 <h2>Hey there 👋 <br><br> I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</h2>
 
-### 🚀💻 Skills:
+<h3>🚀 Skills:</h3>
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -26,7 +25,6 @@
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-  Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,7 +48,7 @@
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-## ⚡ GitHub Stats
+<h3>🔥 My Stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomcebola&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunomcebola&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomcebola&layout=compact&theme=dark)
