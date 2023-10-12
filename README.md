@@ -12,7 +12,7 @@
 </div>
 
 
-<p style="color:red">Hey there 👋</p>
+<p style="font-size:40px">Hey there 👋</p>
 
 <p>I'm Bruno, an Electrical and Computer Engineering Master's student specializing in Control, Robotics, and AI at IST in Lisbon.</p>
 
