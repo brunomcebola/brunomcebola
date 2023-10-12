@@ -50,5 +50,7 @@
 
 <h3>🔥 My Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunomcebola&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunomcebola&theme=github-dark-blue&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brunomcebola&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunomcebola&layout=compact&theme=dark)
